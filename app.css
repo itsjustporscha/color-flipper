@@ -1,0 +1,23 @@
+section#color-display {
+    font-family:'Poppins', sans-serif;
+    margin: 200px auto;
+    width: 50%;
+    background-color:whitesmoke;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+    padding: 50px;
+    border-radius: 5px;
+}
+
+section#color-display h2 {
+font-weight: 600;
+}
+
+section#color-display #new-color-btn{
+    width:100%;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding:5px;
+    font-size: 20px;
+    border: none;
+}
